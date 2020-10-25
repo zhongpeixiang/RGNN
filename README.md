@@ -7,10 +7,11 @@ The EmotionDL regularizer is easy to implement and thus not included in the repo
 
 If you find the paper or this repo useful, please cite
 ```
-@article{zhong2019eeg,
+@article{zhong2020eeg,
   title={EEG-Based Emotion Recognition Using Regularized Graph Neural Networks},
   author={Zhong, Peixiang and Wang, Di and Miao, Chunyan},
-  journal={arXiv preprint arXiv:1907.07835},
-  year={2019}
+  journal={IEEE Transactions on Affective Computing},
+  year={2020},
+  publisher={IEEE}
 }
 ```
